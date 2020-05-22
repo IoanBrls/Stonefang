@@ -3,6 +3,7 @@
 A Roguelike game I created as part of an assignment for my M.Sc. in Digital Games at University of Malta.
 
 This game is not finihsed.
+
 TODOs:
 1. Inverntory/Items
 2. Combat System
