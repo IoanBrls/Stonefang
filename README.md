@@ -9,6 +9,8 @@ TODOs:
 2. Combat System
 3. Ending of the Game
 
+To download the game so far, download the "Build" folder.
+
 Credits: 
 
 Mid’s room based dungeon implementation: https://github.com/Mids/Procedural-Room-Dungeon-Generator
