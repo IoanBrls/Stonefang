@@ -2,7 +2,7 @@
 
 A Roguelike game I created as part of an assignment for my M.Sc. in Digital Games at University of Malta.
 
-This game is not finihsed.
+This game is not finished.
 
 TODOs:
 1. Inverntory/Items
